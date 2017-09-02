@@ -1,0 +1,8 @@
+Content of repository
+https://github.com/DrOnkel/Rehab/tree/ReHab0
+
+ServoPotTester.ino  Program for Arduino IDE to model thep movement of 5-bar mechanism. Connect two potentiometer to A0 and A1 pins and two servos to pin 2 and 3. The rotation of potentiometer rotate the servos.
+
+ServoRehab20.ino  Program for Arduino IDE. The schematis is here.
+
+RehabHelper03.JPG  Schematics of the device for 5 fingers (10 servos).
